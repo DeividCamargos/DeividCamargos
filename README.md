@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DeividCamargos
-- 👀 I’m interested in learning backend
-- 🌱 I’m currently learning C# and .NET
-- 💞️ I’m looking to collaborate on my lear
-
+- 👋 Olá, sou @DeividCamargos
+- 👀 Estou interessado em aprender backend
+- 🌱 Atualmente, estou aprendendo C # e .NET
+- 💞️ Estou procurando colaborar no meu aprendizado
