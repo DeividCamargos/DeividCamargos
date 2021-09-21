@@ -1,4 +1,3 @@
 - 👋 Olá, sou @DeividCamargos
 - 👀 Estou interessado em aprender backend
 - 🌱 Atualmente, estou aprendendo C # e .NET
-- 💞️ Estou procurando colaborar no meu aprendizado
